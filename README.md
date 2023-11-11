@@ -10,8 +10,8 @@ Todolist : https://youtu.be/qhjxAP1hFuI
 
 > 사용자 인터페이스를 구축하기 위한 JavaScript 프레임워크
 
-> 표준 HTML, CSS 및 JavaScript를 기반으로 하는 구축과 유사한 사용자 인터페이스를 
- 
+> 표준 HTML, CSS 및 JavaScript를 기반으로 하는 구축과 유사한 사용자 인터페이스를
+
 > 개발하는 데 도움이 되며 선언 및 구성 요소 기반 프로그래밍 모델을 제공
 
 ### 프로그레시브 프레임워크
@@ -71,7 +71,7 @@ button {
 
 - HTML CSS Support
 
-- Vetur
+- Vetur ❌ vue3이상 부터는 volar를 사용함
 
 - ### Vue Language Features (Volar)
 
