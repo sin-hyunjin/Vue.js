@@ -63,6 +63,45 @@ button {
 
     복합줄에 대한 지식
     Node.js 버전 16.0 이상 설치
+    Visual Studio Code + Volar 확장
+
+#### Extention 설치
+
+- Vue 3 Snippets
+
+- HTML CSS Support
+
+- Vetur
+
+- ### Vue Language Features (Volar)
+
+- 오류
+
+<img width="426" alt="image" src="https://github.com/sin-hyunjin/Vue.js/assets/116487398/e85f440e-ecb8-4f58-b9af-114aa69679aa">
+
+https://github.com/volarjs/services/tree/master/packages/vetur
+
+### Installation
+
+        npm install volar-service-vetur
+
+volar.config.js
+
+```
+module.exports = {
+	services: [
+		require('volar-service-vetur').create(),
+	],
+};
+```
+
+이렇게 설정을 해주면 아래의 오류를 해결할 수 있다.
+
+<img width="571" alt="image" src="https://github.com/volarjs/services/assets/116487398/8573bc40-b72e-47da-862d-0cada89a3609">
+
+#### Vue 개발환경 셋팅 도움
+
+    npm install -g @vue/cli
 
 #### create-vue 설치하고 실행
 
