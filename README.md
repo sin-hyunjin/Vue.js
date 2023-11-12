@@ -60,8 +60,7 @@ button {
 # Vue 환경셋팅
 
     ✅조건
-
-    복합줄에 대한 지식
+    
     Node.js 버전 16.0 이상 설치
     Visual Studio Code + Volar 확장
 
