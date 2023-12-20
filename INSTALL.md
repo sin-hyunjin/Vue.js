@@ -1,6 +1,7 @@
 # vue_immovables
 
 This template should help get you started developing with Vue 3 in Vite.
+JavaScript framework
 
 ## Recommended IDE Setup
 
